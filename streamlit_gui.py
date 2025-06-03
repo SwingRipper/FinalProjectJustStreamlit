@@ -77,8 +77,8 @@ if st.button("Predict"):
 st.markdown("---")
 st.markdown(
     "**About This Tool**\n\n"
-    "This tool (by SwingRipper) uses two regression models trained on Pathfinder 2e creature data to help GMs evaluate how defensively strong a custom creature is. "
-    "The linear model is simple and less likely to be thrown off by weird extreme monsters "
-    "The quadratic model is more accurate in normal cases, but can be thrown off by weird values"
-    "Simply input all your creature numbers and press calculate!"
+    "This tool (by SwingRipper) uses two regression models trained on Pathfinder 2e creature data to help GMs evaluate how defensively strong a custom creature is. \n"
+    "The linear model is simple and less likely to be thrown off by weird extreme monsters \n"
+    "The quadratic model is more accurate in normal cases, but can be thrown off by weird values \n"
+    "Simply input all your creature numbers and press calculate! \n"
 )
