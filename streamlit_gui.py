@@ -81,5 +81,6 @@ st.markdown(
     "This tool (by SwingRipper) uses two regression models trained on Pathfinder 2e creature data to help GMs evaluate how defensively strong a custom creature is.\n"
     "The linear model is simple and less likely to be thrown off by weird extreme monsters.\n"
     "The quadratic model is more accurate in normal cases, but can be thrown off by weird values.\n"
+    "NOTE: mage like creatures are likely -1 level defensively and warrior like creatures tend to be +1 level defensively \n"
     "Simply input all your creature numbers and press calculate!\n"
 )
